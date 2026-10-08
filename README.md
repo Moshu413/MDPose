@@ -2,7 +2,7 @@
 
 This repository is the official project page of:
 
-** Multi-modal Differential Fusion and Decoupled Pose Representation for RGB-based Category-level 6D Object Pose Estimation**
+**Multi-modal Differential Fusion and Decoupled Pose Representation for RGB-based Category-level 6D Object Pose Estimation**
 
 The source code will be released after the paper is accepted.
 
